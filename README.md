@@ -1,2 +1,6 @@
 # Chu4nQ1n.github.io
-![hustlin_erd](https://github.com/Chu4nQ1n/Chu4nQ1n.github.io/blob/main/CV.pdf)
+<object data="https://github.com/Chu4nQ1n/Chu4nQ1n.github.io/blob/main/CV.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/Chu4nQ1n/Chu4nQ1n.github.io/blob/main/CV.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/Chu4nQ1n/Chu4nQ1n.github.io/blob/main/CV.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
